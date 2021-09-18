@@ -13,3 +13,36 @@ a{
 #parrafo4{
     color: magenta;
 }
+
+.parrafoGris{
+    color: gray;
+}
+
+.parrafoNegro{
+    color: black;
+}
+
+.textoRojo{
+    color: red;
+}
+
+.fondoVerde{
+    background-color: chartreuse;
+}
+
+.textoGrandeNegrita{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.imagenPequeña{
+    height: 200px;
+}
+
+.parrafoAngosto{
+    width: 100px;
+    height:100px;
+}
