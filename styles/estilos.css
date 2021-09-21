@@ -78,8 +78,8 @@ a{
     border: 2px solid green;
     display: flex;
     height: 500px;
-    justify-content: center;
-    align-items: center;
+    justify-content:space-around;
+    align-items: flex-end;
   
 }
     
