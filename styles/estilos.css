@@ -100,8 +100,31 @@ border-radius: 10px;
     margin: 10px;
     font-weight: bold;
     font-size: x-large;
+    
+
+  
 }
 
+.breedInteraction{
+    color: white;
+    font-weight:bold;
+    font-size:medium;  
+    margin: 5px; 
+   
+   
+}
+
+.breedInteraction:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.title{
+    color:red;
+  text-align: center;
+  font-size:x-large;
+  
+}
 
 .contenedorImagen{
     width: 240px;
